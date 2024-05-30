@@ -23,7 +23,12 @@
 ## Recognizable
 
 - $A_{TM}$
+- $E_{TM}$
 
 ## Not Recognizable
 
 - $\overline{A_{TM}}$
+
+## Co-Recognizable 
+
+- $E_{TM}$
